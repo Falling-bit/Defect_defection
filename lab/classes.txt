@@ -1,0 +1,5 @@
+cut1
+press1
+press1-2
+press2
+press1-1
