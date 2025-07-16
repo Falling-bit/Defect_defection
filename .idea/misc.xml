@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="torch_py39" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="yolov8" project-jdk-type="Python SDK" />
 </project>
